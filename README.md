@@ -1,8 +1,4 @@
-# <samp>DiscordJS-V14-Bot-Template</samp> v2
-
-A simplified and popular Discord bot commands & events handler built with discord.js version 14 and written in JavaScript. This handler can load up to 4 different types of commands: Prefix, Slash, User context, and Message context. It can also handle components, including Buttons, Modals, Select menus (any type), and autocomplete.
-
-Did you like my project? Click on the star button (⭐️) right above your screen, thank you!
+# <samp>RuneRover - OSRS Discord Bot</samp>
 
 ## Features
 - Using latest [discord.js v14.x version](https://github.com/discordjs/discord.js/releases).
@@ -182,18 +178,6 @@ This is a common problem for developers, to fix this issue, restart the Discord 
 
 ### 3. Is MongoDB required?
 No, MongoDB is not required. There is an option to disable it in `config.js` so you will avoid errors from the commands that requires the database, such as `?prefix`. If you want to use the database, visit [MongoDB website](https://www.mongodb.com/).
-
-## Contributors
-Thank you to all the people who contributed to **DiscordJS-V14-Bot-Template**!
-
-<img src="https://contrib.rocks/image?repo=TFAGaming/DiscordJS-V14-Bot-Template">
-
-## Support
-Join our Discord server if you need any help!
-
-<a href="https://discord.gg/E6VFACWu5V">
-  <img src="https://discord.com/api/guilds/918611797194465280/widget.png?style=banner3">
-</a>
 
 ## License
 [**GPL-3.0**](./LICENSE), General Public License v3
